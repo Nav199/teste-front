@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins%3Awght%40400%3B500&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgba(21, 25, 41, 1);
+}
+
+/* LOGIN CONTAINER */
+.box-area {
+    width: 930px;
+    background-color: rgba(21, 25, 41, 1);
+}
+
+/* BOX-RIGHT */
+.right-box {
+    padding: 40px 30px 40px 40px;
+    background: var(--Primary, rgba(28, 36, 56, 1))
+}
+
+img {
+    width: 600px;
+    height: 228px;
+    left: 75.5px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+}
+
+/* Placeholder */
+::placeholder {
+    font-size: 16px;
+}
+

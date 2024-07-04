@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.button{
+    background: rgba(15, 84, 218, 1);
+
+}
