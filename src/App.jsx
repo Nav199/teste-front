@@ -4,8 +4,8 @@ import Mercado from './components/Mercado/Mercado';
 
 
 function App() {
-  return (
-      <Mercado/>
+  return ( 
+       <Mercado/>
   );
 }
 

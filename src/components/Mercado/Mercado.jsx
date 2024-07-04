@@ -4,7 +4,7 @@ import Concorrente_form from '../Form/Concorrente_form';
 import Fornecedor_form from '../Form/Fornecedor_form';
 const Mercado = () => {
     return (
-        <div className="container mx-auto p-4">
+         <div className="container mx-auto p-4">
             <h1 className="text-2xl font-bold mb-4">Formulário de Análise de Mercado</h1>
             <Client_form/>
             <Concorrente_form/>
